@@ -1,0 +1,3 @@
+I am adding changes to b.txt
+B.txt is a config file
+Use this as needed
